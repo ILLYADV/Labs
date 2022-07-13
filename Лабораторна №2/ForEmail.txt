@@ -1,0 +1,4 @@
+Tue 07/12/2022 22:51:35.64: The size of "log.txt" is MORE than maximum limit 
+Tue 07/12/2022 22:52:51.66: The size of "log.txt" is MORE than maximum limit 
+Tue 07/12/2022 22:57:27.68: The size of "log.txt" is MORE than maximum limit 
+Tue 07/12/2022 22:59:04.19: The size of "log.txt" is MORE than maximum limit 
